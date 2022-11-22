@@ -1,5 +1,4 @@
 let arguments = process.argv.slice(2);
-console.log(arguments);
 let parsedArgs = 0;
 
 if (arguments.length !== 0 ){
